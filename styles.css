@@ -1,0 +1,17 @@
+.heading {
+    text-align: center;
+    background-color: beige;
+}
+
+.front-cover-image {
+    display: flex;
+    justify-content: center; 
+    margin-top: 30px;
+}
+
+.front-cover-image img {
+    width: 1000px;     
+    height: auto;      
+    border-radius: 50px;
+    border: 20px solid beige; 
+}
